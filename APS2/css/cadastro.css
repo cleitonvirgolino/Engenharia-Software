@@ -1,0 +1,26 @@
+html, body
+{ 
+	margin:0; height: 100%;width: 100%;
+	background-image: url("img/capa4.png");
+	background-attachment: fixed;
+	background-color: #87CEFA;
+
+}
+.formCad 
+{
+width: 98%;/*largura do formulario*/
+margin: 0 auto;
+
+}
+
+.quadroCad
+{
+margin: 0 auto;
+margin-top: 5%;
+max-width: 60%;
+height: 70%;
+border: 1px solid #9C9C9C;
+border-radius: 20px;
+background-color: #EAEAEA;
+
+}

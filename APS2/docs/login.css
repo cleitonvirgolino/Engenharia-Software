@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #87CEFA;
+  height: 100vh;
+}
+
+html, body
+{ 
+	margin:0; height: 100%;width: 100%;
+	background-image: url("img/capa4.png");
+	background-attachment: fixed;
+
+}
+#login .container #login-row #login-column #login-box {
+  /*
+  margin-top: 220px;
+  max-width: 350px;
+  height: 320px;
+  */
+  margin-top: 20%;
+  max-width: 50%;
+  border: 1px solid #9C9C9C;
+  border-radius: 20px;
+  background-color: #EAEAEA;
+
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: 0px
+};
+
+.text-login
+{
+	color: black;
+}
+
+.btn-form
+{
+	background-color: #87CEFA;
+	 border: 1px solid #87CEFA;
+
+}
