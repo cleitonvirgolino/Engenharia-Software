@@ -7,8 +7,8 @@ body {
 
 html, body
 { 
-	margin:0; height: 100%;width: 100%;
-	background-image: url("img/capa4.png");
+	background-image: url("D:/ESTUDOS/FACULDADE/GitHub/Engenharia-Software/APS2/img/capa4.png");
+  margin:0; height: 100%;width: 100%;
 	background-attachment: fixed;
 
 }
@@ -18,7 +18,8 @@ html, body
   max-width: 350px;
   height: 320px;
   */
-  margin-top: 20%;
+  margin-top: 35%;
+  margin-left: 25%;
   max-width: 50%;
   border: 1px solid #9C9C9C;
   border-radius: 20px;
